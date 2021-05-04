@@ -9,3 +9,5 @@ Download videos from Kaltura - a media hosting service used by many Universities
 3. Refresh your Kaltura tab and a download icon will appear in the top left. Choose your desired resolution and enjoy!
 
 You can change the "@match" lines near the top of the script to add your university's own Kaltura page. You can use multiple @match tags for multiple websites.
+
+Credit to knownunown for the script, I just added instructions. See forked repo.
